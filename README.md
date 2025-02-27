@@ -21,7 +21,7 @@ Welcome to my GitHub profile! I'm Mohammad Maliki Rafli, a fresh graduate with a
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mohmalikirafli/mohmalikirafli/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mohmalikirafli/mohmalikirafli/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/mohmalikirafli/mohmalikirafli/output/github-snake.svg" />
 </picture>
