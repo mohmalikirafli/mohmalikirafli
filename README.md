@@ -65,14 +65,11 @@ I use statistical reasoning and data science to transform complex health data in
 
 ## GitHub Activity
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mohmalikirafli&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" alt="Mohammad's GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohmalikirafli&layout=compact&theme=transparent&hide_border=true" alt="Most used languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohmalikirafli&theme=transparent&hide_border=true" alt="GitHub contribution streak" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mohmalikirafli/mohmalikirafli/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mohmalikirafli/mohmalikirafli/output/github-snake.svg" />
+  <img alt="Mohammad Maliki Rafli's GitHub contribution activity" src="https://raw.githubusercontent.com/mohmalikirafli/mohmalikirafli/output/github-snake.svg" />
+</picture>
 
 ## Connect
 
@@ -87,9 +84,3 @@ I use statistical reasoning and data science to transform complex health data in
 <p align="center">
   <i>Good analysis does more than describe data—it strengthens decisions.</i>
 </p>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mohmalikirafli/mohmalikirafli/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mohmalikirafli/mohmalikirafli/output/github-snake.svg" />
-  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/mohmalikirafli/mohmalikirafli/output/github-snake.svg" />
-</picture>
