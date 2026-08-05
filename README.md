@@ -63,16 +63,10 @@ I use statistical reasoning and data science to transform complex health data in
 ![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats:
 
 <p align="center">
-  <a href="https://github.com/mohmalikirafli?tab=followers"><img src="https://img.shields.io/github/followers/mohmalikirafli?style=for-the-badge&logo=github&label=Followers&color=0e75b6" alt="GitHub followers" /></a>
-  <a href="https://github.com/mohmalikirafli?tab=repositories&sort=stargazers"><img src="https://img.shields.io/github/stars/mohmalikirafli?affiliations=OWNER&style=for-the-badge&logo=github&label=Total%20Stars&color=0e75b6" alt="Total GitHub stars" /></a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/mohmalikirafli?tab=repositories"><img src="https://img.shields.io/badge/View-Featured%20Repositories-181717?style=for-the-badge&logo=github" alt="View GitHub repositories" /></a>
-  <a href="https://github.com/mohmalikirafli?tab=overview"><img src="https://img.shields.io/badge/View-Contribution%20Overview-181717?style=for-the-badge&logo=github" alt="View contribution overview" /></a>
+  <img src="https://streak-stats.demolab.com?user=mohmalikirafli&theme=radical&hide_border=true" alt="Mohammad Maliki Rafli's GitHub streak stats" />
 </p>
 
 ## 🏆 GitHub Trophies
