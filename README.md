@@ -66,8 +66,8 @@ I use statistical reasoning and data science to transform complex health data in
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mohmalikirafli&theme=github_dark" alt="Mohammad Maliki Rafli's GitHub stats" />
-  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mohmalikirafli&theme=github_dark" alt="Mohammad Maliki Rafli's most used languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mohmalikirafli&show_icons=true&hide_border=true&theme=transparent" alt="Mohammad Maliki Rafli's GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohmalikirafli&layout=compact&hide_border=true&theme=transparent" alt="Mohammad Maliki Rafli's most used languages" />
 </p>
 
 ## 🏆 GitHub Trophies
