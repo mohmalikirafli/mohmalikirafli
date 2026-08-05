@@ -66,14 +66,14 @@ I use statistical reasoning and data science to transform complex health data in
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mohmalikirafli&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="Mohammad Maliki Rafli's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohmalikirafli&layout=compact&theme=github_dark&hide_border=true" alt="Mohammad Maliki Rafli's most used languages" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mohmalikirafli&theme=github_dark" alt="Mohammad Maliki Rafli's GitHub stats" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mohmalikirafli&theme=github_dark" alt="Mohammad Maliki Rafli's most used languages" />
 </p>
 
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mohmalikirafli&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=4" alt="Mohammad Maliki Rafli's GitHub trophies" />
+  <img src="https://trophy.benkou.dev/?username=mohmalikirafli&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=4" alt="Mohammad Maliki Rafli's GitHub trophies" />
 </p>
 
 ## GitHub Activity
