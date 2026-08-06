@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi, I'm Mohammad Maliki Rafli 👋</h1>
-<h3 align="center">Biostatistics · Epidemiology · Health Data Science</h3>
+<h3 align="center">Biostatistics · Epidemiology · Data Analyst · Health Data Science</h3>
 
 <p align="center">
   Turning health data into rigorous evidence, clear insights, and better decisions.
