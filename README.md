@@ -12,6 +12,7 @@
 <p align="center">
   <a href="mailto:moh.malikirafli24@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://linkedin.com/in/malikirafli"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://mohmalikirafli.github.io/"><img src="https://img.shields.io/badge/Portfolio-181717?style=flat-square&logo=githubpages&logoColor=white" alt="Portfolio" /></a>
   <a href="https://medium.com/@malikirafli"><img src="https://img.shields.io/badge/Medium-000000?style=flat-square&logo=medium&logoColor=white" alt="Medium" /></a>
 </p>
 
