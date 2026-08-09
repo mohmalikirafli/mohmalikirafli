@@ -42,6 +42,8 @@ I use statistical reasoning and data science to transform complex health data in
 
 ## Featured Health Data Projects
 
+> Selected projects demonstrating applied biostatistics, epidemiology, health data science, and interactive data communication.
+
 - 🧠 **Public Health AI Audit Lab** — Evidence-grounded evaluation of AI-generated public-health answers using a structured expert rubric. [Repository](https://github.com/mohmalikirafli/public-health-ai-audit-lab)
 - 🗺️ **NourishMap Indonesia** — Interactive visualization of child nutrition inequality using provincial health and socioeconomic indicators. [Repository](https://github.com/mohmalikirafli/indonesia-child-nutrition-map) · [Live Dashboard](https://mohmalikirafli.github.io/indonesia-child-nutrition-map/)
 - 🏫 **Surabaya SSK Readiness Dashboard** — Interactive school-level implementation-readiness analysis with maps, indicators, filters, and programme priorities. [Repository](https://github.com/mohmalikirafli/surabaya-ssk-readiness) · [Live Dashboard](https://mohmalikirafli.github.io/surabaya-ssk-readiness/)
